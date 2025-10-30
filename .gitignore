@@ -1,0 +1,13 @@
+.vscode
+.github
+__pycache__
+*.pyc 
+*venv*
+data/CIFAR10/cifar-10-batches-py
+data/CIFAR10/cifar-10-python.tar.gz
+data/MNIST/MNIST/*
+data/CALTECH101/Caltech101/*
+data/CALTECH101/caltech-101.zip
+src/models/caltech101_cnn.pth 
+src/models/mnist_cnn.pth
+src/models/cifar10_cnn.pth
